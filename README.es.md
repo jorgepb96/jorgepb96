@@ -33,7 +33,7 @@ En mi tesis doctoral analizo cómo los viajeros extranjeros construyeron la imag
 También diseño y desarrollo aplicaciones pensadas para la investigación. Nacen de problemas que encuentro en mi propio trabajo con fuentes y están hechas para investigadores, docentes y estudiantes que se encuentran con los mismos.
 
 > [!NOTE]
-> **La investigación debe ser abierta.** Por eso todas las aplicaciones de Nodus son gratuitas, sin cuentas, anuncios ni suscripciones, y su código fuente es público. Nodus Research, Nodus Imago, Nodus Reader y Nodus Presenter tienen licencia [GNU AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html); Nodus Drift usa la licencia MIT. Tus datos se quedan en tu ordenador.
+> **La investigación debe ser abierta.** Por eso todas las aplicaciones de Nodus son gratuitas y de código abierto, sin cuentas, anuncios ni suscripciones. Nodus Research, Nodus Imago, Nodus Link, Nodus Reader y Nodus Presenter tienen licencia [GNU AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html); Nodus Drift usa la licencia MIT. Tus datos se quedan en tu ordenador.
 
 ### <img src="assets/icon-research.png" alt="" width="28" align="top"> Nodus Research
 

@@ -33,7 +33,7 @@ My doctoral thesis studies how foreign travellers built the image of Spain durin
 I also design and build applications for research. They start from problems I meet in my own work with sources, and they are made for researchers, teachers and students who meet the same ones.
 
 > [!NOTE]
-> **Research should be open.** That is why every Nodus app is free, with no accounts, ads or subscriptions, and its source code is public. Nodus Research, Nodus Imago, Nodus Reader and Nodus Presenter are licensed under the [GNU AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html); Nodus Drift uses the MIT licence. Your data stays on your computer.
+> **Research should be open.** That is why every Nodus app is free and open source, with no accounts, ads or subscriptions. Nodus Research, Nodus Imago, Nodus Link, Nodus Reader and Nodus Presenter are licensed under the [GNU AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html); Nodus Drift uses the MIT licence. Your data stays on your computer.
 
 ### <img src="assets/icon-research.png" alt="" width="28" align="top"> Nodus Research
 
