@@ -1,5 +1,7 @@
 <div align="center">
 
+<img alt="Cabecera: fotografías antiguas, un mapa, un cuaderno y un objetivo de cámara junto a una red de nodos conectados" src="assets/header.jpg" width="100%">
+
 <h1>Jorge Pérez Burgueño</h1>
 
 <p><b>Historiador · Investigador predoctoral en la Universidad de Castilla-La Mancha</b><br>Historia cultural y contemporánea · Historia de la fotografía · Humanidades digitales</p>

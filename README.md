@@ -1,5 +1,7 @@
 <div align="center">
 
+<img alt="Header: old photographs, a map, a notebook and a camera lens beside a network of connected nodes" src="assets/header.jpg" width="100%">
+
 <h1>Jorge Pérez Burgueño</h1>
 
 <p><b>Historian · Predoctoral researcher at the University of Castilla-La Mancha</b><br>Cultural and contemporary history · History of photography · Digital humanities</p>
